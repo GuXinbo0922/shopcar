@@ -1,0 +1,601 @@
+[{
+        "categoryId": 109274,
+        "name": "\u4e3a\u4f60\u63a8\u8350",
+        "image": "",
+        "attribute_individuation": {
+            "is_warmup": "0",
+            "product_type": "0"
+        },
+        "title": "热门推荐",
+        "lists": [{
+            "pid": "rank1",
+            "pname": "连衣裙",
+            "imgUrl": "http://img13.360buyimg.com/focus/s140x140_jfs/t16828/262/724741631/2535/ba1020b7/5a9fb675N29136079.jpg"
+        }, {
+            "pid": "rank2",
+            "pname": "连衣裙",
+            "imgUrl": "http://img13.360buyimg.com/focus/s140x140_jfs/t16828/262/724741631/2535/ba1020b7/5a9fb675N29136079.jpg"
+        }, {
+            "pid": "rank3",
+            "pname": "连衣裙",
+            "imgUrl": "http://img13.360buyimg.com/focus/s140x140_jfs/t16828/262/724741631/2535/ba1020b7/5a9fb675N29136079.jpg"
+        }]
+    },
+    {
+        "categoryId": 26594,
+        "name": "\u5973\u88c5",
+        "image": "http:\/\/a.vpimg4.com\/upload\/category\/2015\/11\/18\/40\/1447838298643.jpg",
+        "attribute_individuation": {
+            "child_channel.show": "1",
+            "child_channel.type": "1",
+            "child_channel.pos": "-1",
+            "child_channel.image": "",
+            "child_channel.text": "\u8fdb\u5165\u5973\u88c5\u9891\u9053",
+            "is_warmup": "0",
+            "product_type": "0",
+            "child_channel.code": "dresses",
+            "child_channel.href": ""
+        },
+        "lists": [{
+            "pid": "nvzhuang1",
+            "pname": "T恤",
+            "imgUrl": "http://img20.360buyimg.com/focus/s140x140_jfs/t19471/233/655303672/4619/b23fea4b/5a9fb684Ne1ec9fe8.jpg"
+        }, {
+            "pid": "nvzhuang2",
+            "pname": "牛仔裤",
+            "imgUrl": "https://img10.360buyimg.com/focus/s140x140_jfs/t18343/191/641645855/3307/d3a4e7b4/5a9fb694N13609fcd.jpg"
+        }, {
+            "pid": "nvzhuang3",
+            "pname": "卫衣",
+            "imgUrl": "https://img12.360buyimg.com/focus/s140x140_jfs/t19270/200/692436631/4169/b502c81c/5a9fb68eN125c9ddd.jpg"
+        }, {
+            "pid": "nvzhuang4",
+            "pname": "针织衫",
+            "imgUrl": "https://img30.360buyimg.com/focus/s140x140_jfs/t11794/114/2228059199/2529/60e8b474/5a12b21eN10fd877c.jpg"
+        }, {
+            "pid": "nvzhuang5",
+            "pname": "衬衫",
+            "imgUrl": "https://img11.360buyimg.com/focus/s140x140_jfs/t18130/206/667191027/4173/bf767ab4/5a9fb67fN3834e3c9.jpg"
+        }, {
+            "pid": "nvzhuang6",
+            "pname": "连衣裙",
+            "imgUrl": "https://img30.360buyimg.com/focus/s140x140_jfs/t16891/72/715748110/3080/182127b5/5a9fb67aN37c4848f.jpg"
+        }]
+    },
+    {
+        "categoryId": 26595,
+        "name": "\u7537\u88c5",
+        "image": "http:\/\/a.vpimg4.com\/upload\/category\/2017\/08\/14\/74\/115db83f-2a98-4dd9-82e6-62cca4735a78.png",
+        "attribute_individuation": {
+            "child_channel.show": "1",
+            "child_channel.type": "1",
+            "child_channel.pos": "-1",
+            "child_channel.image": "",
+            "child_channel.text": "\u8fdb\u5165\u7537\u88c5\u9891\u9053",
+            "is_warmup": "0",
+            "product_type": "0",
+            "child_channel.code": "man-clothes",
+            "child_channel.href": ""
+        },
+        "lists": [{
+            "pid": "nvzhuang1",
+            "pname": "T恤",
+            "imgUrl": "http://img20.360buyimg.com/focus/s140x140_jfs/t19471/233/655303672/4619/b23fea4b/5a9fb684Ne1ec9fe8.jpg"
+        }, {
+            "pid": "nvzhuang2",
+            "pname": "牛仔裤",
+            "imgUrl": "https://img10.360buyimg.com/focus/s140x140_jfs/t18343/191/641645855/3307/d3a4e7b4/5a9fb694N13609fcd.jpg"
+        }, {
+            "pid": "nvzhuang3",
+            "pname": "卫衣",
+            "imgUrl": "https://img12.360buyimg.com/focus/s140x140_jfs/t19270/200/692436631/4169/b502c81c/5a9fb68eN125c9ddd.jpg"
+        }]
+    },
+    {
+        "categoryId": 75044,
+        "name": "\u7537\u5973\u5185\u8863",
+        "image": "",
+        "attribute_individuation": {
+            "child_channel.show": "1",
+            "child_channel.type": "1",
+            "child_channel.pos": "-1",
+            "child_channel.image": "",
+            "child_channel.text": "\u8fdb\u5165\u7537\u5973\u5185\u8863\u9891\u9053",
+            "is_warmup": "0",
+            "product_type": "0",
+            "child_channel.code": "neiyi",
+            "child_channel.href": ""
+        },
+        "lists": [{
+            "pid": "nvzhuang1",
+            "pname": "T恤",
+            "imgUrl": "http://img20.360buyimg.com/focus/s140x140_jfs/t19471/233/655303672/4619/b23fea4b/5a9fb684Ne1ec9fe8.jpg"
+        }, {
+            "pid": "nvzhuang2",
+            "pname": "牛仔裤",
+            "imgUrl": "https://img10.360buyimg.com/focus/s140x140_jfs/t18343/191/641645855/3307/d3a4e7b4/5a9fb694N13609fcd.jpg"
+        }]
+    },
+    {
+        "categoryId": 26596,
+        "name": "\u5973\u978b",
+        "image": "http:\/\/a.vpimg4.com\/upload\/category\/2018\/05\/04\/20\/7736507f-3eb5-4e92-a85a-7b20bff4ae65.jpg",
+        "attribute_individuation": {
+            "child_channel.show": "1",
+            "child_channel.type": "1",
+            "child_channel.pos": "-1",
+            "child_channel.image": "",
+            "child_channel.text": "\u8fdb\u5165\u978b\u5305\u9891\u9053",
+            "is_warmup": "0",
+            "product_type": "0",
+            "child_channel.code": "shoes&bags",
+            "child_channel.href": ""
+        },
+        "lists": [{
+            "pid": "nvzhuang1",
+            "pname": "T恤",
+            "imgUrl": "http://img20.360buyimg.com/focus/s140x140_jfs/t19471/233/655303672/4619/b23fea4b/5a9fb684Ne1ec9fe8.jpg"
+        }, {
+            "pid": "nvzhuang2",
+            "pname": "牛仔裤",
+            "imgUrl": "https://img10.360buyimg.com/focus/s140x140_jfs/t18343/191/641645855/3307/d3a4e7b4/5a9fb694N13609fcd.jpg"
+        }, {
+            "pid": "nvzhuang5",
+            "pname": "衬衫",
+            "imgUrl": "https://img11.360buyimg.com/focus/s140x140_jfs/t18130/206/667191027/4173/bf767ab4/5a9fb67fN3834e3c9.jpg"
+        }, {
+            "pid": "nvzhuang6",
+            "pname": "连衣裙",
+            "imgUrl": "https://img30.360buyimg.com/focus/s140x140_jfs/t16891/72/715748110/3080/182127b5/5a9fb67aN37c4848f.jpg"
+        }]
+    },
+    {
+        "categoryId": 83774,
+        "name": "\u7537\u978b",
+        "image": "http:\/\/a.vpimg4.com\/upload\/category\/2018\/05\/04\/176\/2766faa4-676a-4aab-b29a-a8d6ef007789.jpg",
+        "attribute_individuation": {
+            "child_channel.show": "1",
+            "child_channel.type": "1",
+            "child_channel.pos": "-1",
+            "child_channel.image": "",
+            "child_channel.text": "\u8fdb\u5165\u978b\u5305\u9891\u9053",
+            "is_warmup": "0",
+            "product_type": "0",
+            "child_channel.code": "shoes&bags",
+            "child_channel.href": ""
+        },
+        "lists": [{
+            "pid": "nvzhuang1",
+            "pname": "T恤",
+            "imgUrl": "http://img20.360buyimg.com/focus/s140x140_jfs/t19471/233/655303672/4619/b23fea4b/5a9fb684Ne1ec9fe8.jpg"
+        }, {
+            "pid": "nvzhuang2",
+            "pname": "牛仔裤",
+            "imgUrl": "https://img10.360buyimg.com/focus/s140x140_jfs/t18343/191/641645855/3307/d3a4e7b4/5a9fb694N13609fcd.jpg"
+        }, {
+            "pid": "nvzhuang3",
+            "pname": "卫衣",
+            "imgUrl": "https://img12.360buyimg.com/focus/s140x140_jfs/t19270/200/692436631/4169/b502c81c/5a9fb68eN125c9ddd.jpg"
+        }, {
+            "pid": "nvzhuang4",
+            "pname": "针织衫",
+            "imgUrl": "https://img30.360buyimg.com/focus/s140x140_jfs/t11794/114/2228059199/2529/60e8b474/5a12b21eN10fd877c.jpg"
+        }, {
+            "pid": "nvzhuang5",
+            "pname": "衬衫",
+            "imgUrl": "https://img11.360buyimg.com/focus/s140x140_jfs/t18130/206/667191027/4173/bf767ab4/5a9fb67fN3834e3c9.jpg"
+        }, {
+            "pid": "nvzhuang6",
+            "pname": "连衣裙",
+            "imgUrl": "https://img30.360buyimg.com/focus/s140x140_jfs/t16891/72/715748110/3080/182127b5/5a9fb67aN37c4848f.jpg"
+        }]
+    },
+    {
+        "categoryId": 31333,
+        "name": "\u7bb1\u5305\u76ae\u5177",
+        "image": "",
+        "attribute_individuation": {
+            "child_channel.show": "1",
+            "child_channel.type": "1",
+            "child_channel.pos": "-1",
+            "child_channel.image": "",
+            "child_channel.text": "\u8fdb\u5165\u978b\u5305\u9891\u9053",
+            "is_warmup": "0",
+            "product_type": "0",
+            "child_channel.code": "shoes&bags",
+            "child_channel.href": ""
+        },
+        "lists": [{
+            "pid": "nvzhuang1",
+            "pname": "T恤",
+            "imgUrl": "http://img20.360buyimg.com/focus/s140x140_jfs/t19471/233/655303672/4619/b23fea4b/5a9fb684Ne1ec9fe8.jpg"
+        }, {
+            "pid": "nvzhuang2",
+            "pname": "牛仔裤",
+            "imgUrl": "https://img10.360buyimg.com/focus/s140x140_jfs/t18343/191/641645855/3307/d3a4e7b4/5a9fb694N13609fcd.jpg"
+        }, {
+            "pid": "nvzhuang3",
+            "pname": "卫衣",
+            "imgUrl": "https://img12.360buyimg.com/focus/s140x140_jfs/t19270/200/692436631/4169/b502c81c/5a9fb68eN125c9ddd.jpg"
+        }, {
+            "pid": "nvzhuang4",
+            "pname": "针织衫",
+            "imgUrl": "https://img30.360buyimg.com/focus/s140x140_jfs/t11794/114/2228059199/2529/60e8b474/5a12b21eN10fd877c.jpg"
+        }, {
+            "pid": "nvzhuang5",
+            "pname": "衬衫",
+            "imgUrl": "https://img11.360buyimg.com/focus/s140x140_jfs/t18130/206/667191027/4173/bf767ab4/5a9fb67fN3834e3c9.jpg"
+        }, {
+            "pid": "nvzhuang6",
+            "pname": "连衣裙",
+            "imgUrl": "https://img30.360buyimg.com/focus/s140x140_jfs/t16891/72/715748110/3080/182127b5/5a9fb67aN37c4848f.jpg"
+        }]
+    },
+    {
+        "categoryId": 27916,
+        "name": "\u624b\u8868\u914d\u9970",
+        "image": "http:\/\/a.vpimg4.com\/upload\/category\/2015\/10\/19\/163\/1445250906963.jpg",
+        "attribute_individuation": {
+            "child_channel.show": "1",
+            "child_channel.type": "1",
+            "child_channel.pos": "-1",
+            "child_channel.image": "",
+            "child_channel.text": "\u8fdb\u5165\u624b\u8868\u914d\u9970\u9891\u9053",
+            "is_warmup": "0",
+            "product_type": "0",
+            "child_channel.code": "watch",
+            "child_channel.href": ""
+        },
+        "lists": [{
+            "pid": "nvzhuang1",
+            "pname": "T恤",
+            "imgUrl": "http://img20.360buyimg.com/focus/s140x140_jfs/t19471/233/655303672/4619/b23fea4b/5a9fb684Ne1ec9fe8.jpg"
+        }, {
+            "pid": "nvzhuang2",
+            "pname": "牛仔裤",
+            "imgUrl": "https://img10.360buyimg.com/focus/s140x140_jfs/t18343/191/641645855/3307/d3a4e7b4/5a9fb694N13609fcd.jpg"
+        }, {
+            "pid": "nvzhuang3",
+            "pname": "卫衣",
+            "imgUrl": "https://img12.360buyimg.com/focus/s140x140_jfs/t19270/200/692436631/4169/b502c81c/5a9fb68eN125c9ddd.jpg"
+        }, {
+            "pid": "nvzhuang4",
+            "pname": "针织衫",
+            "imgUrl": "https://img30.360buyimg.com/focus/s140x140_jfs/t11794/114/2228059199/2529/60e8b474/5a12b21eN10fd877c.jpg"
+        }, {
+            "pid": "nvzhuang5",
+            "pname": "衬衫",
+            "imgUrl": "https://img11.360buyimg.com/focus/s140x140_jfs/t18130/206/667191027/4173/bf767ab4/5a9fb67fN3834e3c9.jpg"
+        }, {
+            "pid": "nvzhuang6",
+            "pname": "连衣裙",
+            "imgUrl": "https://img30.360buyimg.com/focus/s140x140_jfs/t16891/72/715748110/3080/182127b5/5a9fb67aN37c4848f.jpg"
+        }]
+    },
+    {
+        "categoryId": 288532,
+        "name": "\u62a4\u80a4\u5f69\u5986",
+        "image": "",
+        "attribute_individuation": {
+            "child_channel.show": "1",
+            "child_channel.type": "1",
+            "child_channel.pos": "-1",
+            "child_channel.image": "",
+            "child_channel.text": "\u8fdb\u5165\u7f8e\u5986\u9891\u9053",
+            "is_warmup": "0",
+            "product_type": "0",
+            "child_channel.code": "beauty",
+            "child_channel.href": ""
+        },
+        "lists": [{
+            "pid": "nvzhuang1",
+            "pname": "T恤",
+            "imgUrl": "http://img20.360buyimg.com/focus/s140x140_jfs/t19471/233/655303672/4619/b23fea4b/5a9fb684Ne1ec9fe8.jpg"
+        }, {
+            "pid": "nvzhuang2",
+            "pname": "牛仔裤",
+            "imgUrl": "https://img10.360buyimg.com/focus/s140x140_jfs/t18343/191/641645855/3307/d3a4e7b4/5a9fb694N13609fcd.jpg"
+        }, {
+            "pid": "nvzhuang3",
+            "pname": "卫衣",
+            "imgUrl": "https://img12.360buyimg.com/focus/s140x140_jfs/t19270/200/692436631/4169/b502c81c/5a9fb68eN125c9ddd.jpg"
+        }, {
+            "pid": "nvzhuang4",
+            "pname": "针织衫",
+            "imgUrl": "https://img30.360buyimg.com/focus/s140x140_jfs/t11794/114/2228059199/2529/60e8b474/5a12b21eN10fd877c.jpg"
+        }, {
+            "pid": "nvzhuang5",
+            "pname": "衬衫",
+            "imgUrl": "https://img11.360buyimg.com/focus/s140x140_jfs/t18130/206/667191027/4173/bf767ab4/5a9fb67fN3834e3c9.jpg"
+        }, {
+            "pid": "nvzhuang6",
+            "pname": "连衣裙",
+            "imgUrl": "https://img30.360buyimg.com/focus/s140x140_jfs/t16891/72/715748110/3080/182127b5/5a9fb67aN37c4848f.jpg"
+        }]
+    },
+    {
+        "categoryId": 288533,
+        "name": "\u4e2a\u4eba\u62a4\u7406",
+        "image": "",
+        "attribute_individuation": {
+            "child_channel.show": "1",
+            "child_channel.type": "1",
+            "child_channel.pos": "-1",
+            "child_channel.image": "",
+            "child_channel.text": "\u8fdb\u5165\u7f8e\u5986\u9891\u9053",
+            "is_warmup": "0",
+            "product_type": "0",
+            "child_channel.code": "beauty",
+            "child_channel.href": ""
+        },
+        "lists": [{
+            "pid": "nvzhuang1",
+            "pname": "T恤",
+            "imgUrl": "http://img20.360buyimg.com/focus/s140x140_jfs/t19471/233/655303672/4619/b23fea4b/5a9fb684Ne1ec9fe8.jpg"
+        }, {
+            "pid": "nvzhuang2",
+            "pname": "牛仔裤",
+            "imgUrl": "https://img10.360buyimg.com/focus/s140x140_jfs/t18343/191/641645855/3307/d3a4e7b4/5a9fb694N13609fcd.jpg"
+        }, {
+            "pid": "nvzhuang3",
+            "pname": "卫衣",
+            "imgUrl": "https://img12.360buyimg.com/focus/s140x140_jfs/t19270/200/692436631/4169/b502c81c/5a9fb68eN125c9ddd.jpg"
+        }, {
+            "pid": "nvzhuang4",
+            "pname": "针织衫",
+            "imgUrl": "https://img30.360buyimg.com/focus/s140x140_jfs/t11794/114/2228059199/2529/60e8b474/5a12b21eN10fd877c.jpg"
+        }, {
+            "pid": "nvzhuang5",
+            "pname": "衬衫",
+            "imgUrl": "https://img11.360buyimg.com/focus/s140x140_jfs/t18130/206/667191027/4173/bf767ab4/5a9fb67fN3834e3c9.jpg"
+        }, {
+            "pid": "nvzhuang6",
+            "pname": "连衣裙",
+            "imgUrl": "https://img30.360buyimg.com/focus/s140x140_jfs/t16891/72/715748110/3080/182127b5/5a9fb67aN37c4848f.jpg"
+        }]
+    },
+    {
+        "categoryId": 26598,
+        "name": "\u6bcd\u5a74",
+        "image": "http:\/\/a.vpimg4.com\/upload\/category\/2015\/08\/02\/103\/1438505178212.jpg",
+        "attribute_individuation": {
+            "child_channel.show": "1",
+            "child_channel.type": "1",
+            "child_channel.pos": "-1",
+            "child_channel.image": "",
+            "child_channel.text": "\u8fdb\u5165\u6bcd\u5a74\u9891\u9053",
+            "is_warmup": "0",
+            "product_type": "0",
+            "child_channel.code": "kids",
+            "child_channel.href": ""
+        },
+        "lists": [{
+            "pid": "nvzhuang1",
+            "pname": "T恤",
+            "imgUrl": "http://img20.360buyimg.com/focus/s140x140_jfs/t19471/233/655303672/4619/b23fea4b/5a9fb684Ne1ec9fe8.jpg"
+        }, {
+            "pid": "nvzhuang2",
+            "pname": "牛仔裤",
+            "imgUrl": "https://img10.360buyimg.com/focus/s140x140_jfs/t18343/191/641645855/3307/d3a4e7b4/5a9fb694N13609fcd.jpg"
+        }, {
+            "pid": "nvzhuang3",
+            "pname": "卫衣",
+            "imgUrl": "https://img12.360buyimg.com/focus/s140x140_jfs/t19270/200/692436631/4169/b502c81c/5a9fb68eN125c9ddd.jpg"
+        }, {
+            "pid": "nvzhuang4",
+            "pname": "针织衫",
+            "imgUrl": "https://img30.360buyimg.com/focus/s140x140_jfs/t11794/114/2228059199/2529/60e8b474/5a12b21eN10fd877c.jpg"
+        }, {
+            "pid": "nvzhuang5",
+            "pname": "衬衫",
+            "imgUrl": "https://img11.360buyimg.com/focus/s140x140_jfs/t18130/206/667191027/4173/bf767ab4/5a9fb67fN3834e3c9.jpg"
+        }, {
+            "pid": "nvzhuang6",
+            "pname": "连衣裙",
+            "imgUrl": "https://img30.360buyimg.com/focus/s140x140_jfs/t16891/72/715748110/3080/182127b5/5a9fb67aN37c4848f.jpg"
+        }]
+    },
+    {
+        "categoryId": 26602,
+        "name": "\u8fd0\u52a8\u6237\u5916",
+        "image": "http:\/\/a.vpimg4.com\/upload\/category\/2015\/11\/12\/171\/1447336510155.png",
+        "attribute_individuation": {
+            "child_channel.show": "1",
+            "child_channel.type": "1",
+            "child_channel.pos": "-1",
+            "child_channel.image": "",
+            "child_channel.text": "\u8fdb\u5165\u8fd0\u52a8\u6237\u5916\u9891\u9053",
+            "is_warmup": "0",
+            "product_type": "0",
+            "child_channel.code": "sports",
+            "child_channel.href": ""
+        }
+    },
+    {
+        "categoryId": 96552,
+        "name": "\u624b\u673a\u6570\u7801",
+        "image": "",
+        "attribute_individuation": {
+            "child_channel.show": "1",
+            "child_channel.type": "1",
+            "child_channel.pos": "-1",
+            "child_channel.image": "",
+            "child_channel.text": "\u8fdb\u5165\u5bb6\u7528\u7535\u5668\u9891\u9053",
+            "is_warmup": "0",
+            "product_type": "0",
+            "child_channel.code": "digital",
+            "child_channel.href": ""
+        }
+    },
+    {
+        "categoryId": 26600,
+        "name": "\u5bb6\u7528\u7535\u5668",
+        "image": "http:\/\/a.vpimg4.com\/upload\/category\/2015\/10\/22\/22\/1445485229051.jpg",
+        "attribute_individuation": {
+            "child_channel.show": "1",
+            "child_channel.type": "1",
+            "child_channel.pos": "-1",
+            "child_channel.image": "",
+            "child_channel.text": "\u8fdb\u5165\u5bb6\u7528\u7535\u5668\u9891\u9053",
+            "is_warmup": "0",
+            "product_type": "0",
+            "child_channel.code": "digital",
+            "child_channel.href": ""
+        }
+    },
+    {
+        "categoryId": 26599,
+        "name": "\u5bb6\u5c45\u5bb6\u7eba",
+        "image": "http:\/\/a.vpimg4.com\/upload\/category\/2015\/08\/02\/82\/1438505199591.jpg",
+        "attribute_individuation": {
+            "child_channel.show": "1",
+            "child_channel.type": "1",
+            "child_channel.pos": "-1",
+            "child_channel.image": "",
+            "child_channel.text": "\u8fdb\u5165\u5bb6\u5c45\u5bb6\u7eba\u9891\u9053",
+            "is_warmup": "0",
+            "product_type": "0",
+            "child_channel.code": "house_clothes",
+            "child_channel.href": ""
+        }
+    },
+    {
+        "categoryId": 105274,
+        "name": "\u5bb6\u5177\u5bb6\u88c5",
+        "image": "",
+        "attribute_individuation": {
+            "child_channel.show": "1",
+            "child_channel.type": "1",
+            "child_channel.pos": "-1",
+            "child_channel.image": "",
+            "child_channel.text": "\u8fdb\u5165\u5bb6\u5177\u5bb6\u88c5\u9891\u9053",
+            "is_warmup": "0",
+            "product_type": "0",
+            "child_channel.code": "jiajujiazhuang0713",
+            "child_channel.href": ""
+        }
+    },
+    {
+        "categoryId": 26601,
+        "name": "\u751f\u6d3b\u8d85\u5e02",
+        "image": "http:\/\/a.vpimg4.com\/upload\/category\/2015\/08\/02\/154\/1438505240423.jpg",
+        "attribute_individuation": {
+            "child_channel.show": "1",
+            "child_channel.type": "1",
+            "child_channel.pos": "-1",
+            "child_channel.image": "",
+            "child_channel.text": "\u8fdb\u5165\u552f\u54c1\u751f\u6d3b\u9891\u9053",
+            "is_warmup": "0",
+            "product_type": "0",
+            "child_channel.code": "life0526",
+            "child_channel.href": ""
+        }
+    },
+    {
+        "categoryId": 31553,
+        "name": "\u552f\u54c1\u56fd\u9645",
+        "image": "",
+        "attribute_individuation": {
+            "child_channel.show": "1",
+            "child_channel.type": "1",
+            "child_channel.pos": "-1",
+            "child_channel.image": "",
+            "child_channel.text": "\u8fdb\u5165\u552f\u54c1\u56fd\u9645\u9891\u9053",
+            "is_warmup": "0",
+            "product_type": "0",
+            "child_channel.code": "oversea",
+            "child_channel.href": ""
+        }
+    },
+    {
+        "categoryId": 168947,
+        "name": "\u552f\u54c1\u4f18\u9009",
+        "image": "",
+        "attribute_individuation": {
+            "is_warmup": "0",
+            "product_type": "0"
+        }
+    },
+    {
+        "categoryId": 73140,
+        "name": "\u552f\u54c1\u00b7\u5962",
+        "image": "",
+        "attribute_individuation": {
+            "child_channel.show": "1",
+            "child_channel.type": "1",
+            "child_channel.pos": "1",
+            "child_channel.image": "",
+            "child_channel.text": "\u8fdb\u5165\u552f\u54c1\u5962\u9891\u9053",
+            "is_warmup": "0",
+            "product_type": "0",
+            "child_channel.code": "lux",
+            "child_channel.href": ""
+        }
+    },
+    {
+        "categoryId": 135565,
+        "name": "\u552f\u54c1\u91d1\u878d",
+        "image": "",
+        "attribute_individuation": {
+            "child_channel.show": "1",
+            "child_channel.type": "1",
+            "child_channel.pos": "-1",
+            "child_channel.image": "",
+            "child_channel.text": "\u8fdb\u5165\u552f\u54c1\u91d1\u878d\u9891\u9053",
+            "is_warmup": "0",
+            "product_type": "0",
+            "child_channel.code": "finance",
+            "child_channel.href": ""
+        }
+    },
+    {
+        "categoryId": 269646,
+        "name": "\u552f\u54c1\u533b\u836f",
+        "image": "",
+        "attribute_individuation": {
+            "child_channel.show": "1",
+            "child_channel.type": "2",
+            "child_channel.pos": "-1",
+            "child_channel.image": "",
+            "child_channel.text": "\u8fdb\u5165\u552f\u54c1\u533b\u836f\u9891\u9053",
+            "is_warmup": "0",
+            "product_type": "0",
+            "child_channel.code": "",
+            "child_channel.href": "https:\/\/mst.vip.com\/uploadfiles\/exclusive_subject\/te\/v1\/40iiNGsn7U9k_yo5X1dE2g.php?wapid=mst_3732160&_src=mst&page_msg=all-all-"
+        },
+        "lists": [{
+            "pid": "nvzhuang1",
+            "pname": "T恤",
+            "imgUrl": "http://img20.360buyimg.com/focus/s140x140_jfs/t19471/233/655303672/4619/b23fea4b/5a9fb684Ne1ec9fe8.jpg"
+        }, {
+            "pid": "nvzhuang2",
+            "pname": "牛仔裤",
+            "imgUrl": "https://img10.360buyimg.com/focus/s140x140_jfs/t18343/191/641645855/3307/d3a4e7b4/5a9fb694N13609fcd.jpg"
+        }, {
+            "pid": "nvzhuang3",
+            "pname": "卫衣",
+            "imgUrl": "https://img12.360buyimg.com/focus/s140x140_jfs/t19270/200/692436631/4169/b502c81c/5a9fb68eN125c9ddd.jpg"
+        }, {
+            "pid": "nvzhuang4",
+            "pname": "针织衫",
+            "imgUrl": "https://img30.360buyimg.com/focus/s140x140_jfs/t11794/114/2228059199/2529/60e8b474/5a12b21eN10fd877c.jpg"
+        }, {
+            "pid": "nvzhuang5",
+            "pname": "衬衫",
+            "imgUrl": "https://img11.360buyimg.com/focus/s140x140_jfs/t18130/206/667191027/4173/bf767ab4/5a9fb67fN3834e3c9.jpg"
+        }, {
+            "pid": "nvzhuang6",
+            "pname": "连衣裙",
+            "imgUrl": "https://img30.360buyimg.com/focus/s140x140_jfs/t16891/72/715748110/3080/182127b5/5a9fb67aN37c4848f.jpg"
+        }]
+    },
+    {
+        "categoryId": 280269,
+        "name": "\u56fe\u4e66\u6587\u5a31",
+        "image": "",
+        "attribute_individuation": {
+            "is_warmup": "0",
+            "product_type": "0"
+        }
+    }
+]
